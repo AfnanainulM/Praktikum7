@@ -1,0 +1,54 @@
+
+.box1{
+    background-color: yellow;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+    border: solid;
+}
+
+.box2{
+    background-color: orange;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+    border: solid;
+}
+
+.box3{
+    background-color: aqua;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+    border: solid;
+}
+
+.box4{
+    background-color: lightskyblue;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+    border: solid;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.img{
+    width: 300px;
+    margin: 3em 2em;
+}
+
+.countainer{
+    display: flex;
+    background-color: bisque;
+    background-size: auto;
+}
+
+.countainer img{
+    width: 20%;
+    margin: 3em 2em;
+}
